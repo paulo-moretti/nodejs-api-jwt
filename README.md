@@ -32,7 +32,7 @@ nodejs-api-jwt/
 1. Clone o repositório:
 ````
 git clone https://github.com/paulo-moretti/task-manager.git
-
+````
 2. Navegue até a pasta do projeto:
 ````
 cd nodejs-api-jwt
