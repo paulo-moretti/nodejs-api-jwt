@@ -9,8 +9,7 @@ Uma API simples para autenticação de usuários em Node.js usando Express, com 
 - **Criptografia de Senhas**: As senhas são armazenadas de forma segura, usando criptografia para proteger as credenciais dos usuários.
 
 ## 📦 Estrutura do Projeto
-
-```plaintext
+```
 nodejs-api-jwt/
 ├── server.js               # Ponto de entrada do servidor
 ├── .env                    # Configurações de variáveis de ambiente
@@ -19,7 +18,7 @@ nodejs-api-jwt/
 ├── routes/
 │   └── userRoutes.js       # Arquivo com as rotas para registrar e logar usuários
 └── package.json            # Dependências e scripts do projeto
-
+````
 ## 🚀 Tecnologias Utilizadas
 - Node.js:
 - Express:
