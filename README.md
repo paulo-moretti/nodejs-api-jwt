@@ -58,7 +58,7 @@ Servidor rodando na porta 5000
 1. Registro de Usuário
 - Método: POST
 - URL: http://localhost:5000/api/usuarios/registrar
--Corpo da Requisição (JSON):
+- Corpo da Requisição (JSON):
 ````
 {
   "nome": "João Silva",
